@@ -1,1 +1,1 @@
-# aiml
+# University of Texas Austin Artificial Intelligence / Machine Learning certificate project repo.
